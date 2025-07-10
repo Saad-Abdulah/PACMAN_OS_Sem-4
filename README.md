@@ -1,5 +1,16 @@
 # Multi-threaded Pac-Man Game 🎮
 
+<div align="center">
+  
+### 🌟 Check out the project showcase on LinkedIn! 🌟
+<a href="https://www.linkedin.com/posts/saadabdullah786_pacman-operatingsystems-gamedevelopment-activity-7342557549025542144-m7Dq">
+  <img src="https://img.shields.io/badge/LinkedIn-View_Project_Showcase-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Post" />
+</a>
+
+---
+
+</div>
+
 A modern implementation of the classic Pac-Man game using C, OpenGL, and multi-threading concepts. This project demonstrates advanced programming concepts including thread synchronization, mutex locks, semaphores, and real-time game mechanics.
 
 <img src="Screenshots/playing-1.jpg" alt="Start Menu" width="400"/>
@@ -117,7 +128,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🔗 Connect & Share
 
-- [LinkedIn Post](https://linkedin.com/share) - Share your experience with this project
 - [GitHub Repository](https://github.com/yourusername/pacman)
 - [Portfolio](https://yourportfolio.com)
 
