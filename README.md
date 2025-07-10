@@ -3,7 +3,7 @@
 <div align="center">
   
 ### 🌟 Check out the project showcase on LinkedIn! 🌟
-<a href="https://www.linkedin.com/posts/saadabdullah786_pacman-operatingsystems-gamedevelopment-activity-7342557549025542144-m7Dq">
+<a href="https://www.linkedin.com/posts/saadabdullah786_pacman-operatingsystems-gamedevelopment-activity-7342557549025542144-m7Dq" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-View_Project_Showcase-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Post" />
 </a>
 
@@ -126,10 +126,10 @@ Feel free to fork this project and submit pull requests. For major changes, plea
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🔗 Connect & Share
+## �� Connect & Share
 
-- [GitHub Repository](https://github.com/yourusername/pacman)
-- [Portfolio](https://yourportfolio.com)
+- <a href="https://github.com/yourusername/pacman" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+- <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
 ## 📸 Additional Screenshots
 
